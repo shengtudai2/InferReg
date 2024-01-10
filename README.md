@@ -1,1 +1,3 @@
-# MGGRN_SUPPLEMENTARY
+# InferReg
+
+code, notes and supplemenraty table of InferReg
