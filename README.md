@@ -39,4 +39,4 @@ To train the model, execute `python model_fit.py` from the `code` directory. The
 
 ### Prediction
 
-To make a prediction, run `python predict.py` from the `code` directory. The predicted regulatory relationships will be saved in the `data/predicted/at_edges.tsv` file.
+To make a prediction, run `python predict.py` from the `code` directory. The predicted regulatory relationships will be saved in the `data/predicted/at_edges.tsv` file. The path `data/predicted` will be automatically generated upon the first execution.
